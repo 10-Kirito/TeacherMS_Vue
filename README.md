@@ -1,2 +1,19 @@
-# TeacherMS_Vue
-该仓库内容是大三数据库项目的前端部分，这里选择将其部署到GitHub上来进行访问！
+# vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run dev
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
